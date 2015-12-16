@@ -4,10 +4,19 @@ $CMP 74X125
 D Quadruple Bus Buffer Gate With 3-State Output
 $ENDCMP
 #
+$CMP 74X126
+D Quadruple Bus Buffer Gate With 3-State Output
+$ENDCMP
+#
 $CMP SN74125
 D Quadruple Bus Buffer Gate With 3-State Output
 K TTL Bipolar
 F http://www.ti.com/lit/gpn/sn74125
+$ENDCMP
+#
+$CMP SN74126
+D Quadruple Bus Buffer Gate With 3-State Output
+F http://www.ti.com/lit/gpn/sn74126
 $ENDCMP
 #
 $CMP SN74LS125A
@@ -16,16 +25,31 @@ K LS TTL Bipolar
 F http://www.ti.com/lit/gpn/sn74ls125a
 $ENDCMP
 #
+$CMP SN74LS126A
+D Quadruple Bus Buffer Gate With 3-State Output
+F http://www.ti.com/lit/gpn/sn74ls126a
+$ENDCMP
+#
 $CMP SN74LV125A
 D Quadruple Bus Buffer Gate With 3-State Output
 K LV TTL Bipolar
 F http://www.ti.com/lit/gpn/sn74lv125a
 $ENDCMP
 #
+$CMP SN74LV126A
+D Quadruple Bus Buffer Gate With 3-State Output
+F http://www.ti.com/lit/gpn/sn74lv126a
+$ENDCMP
+#
 $CMP SN74LVC125A
 D Quadruple Bus Buffer Gate With 3-State Output
 K LVC TTL CMOS
 F http://www.ti.com/lit/gpn/sn74lvc125a
+$ENDCMP
+#
+$CMP SN74LVC126A
+D Quadruple Bus Buffer Gate With 3-State Output
+F http://www.ti.com/lit/gpn/sn74lvc126a
 $ENDCMP
 #
 #End Doc Library
