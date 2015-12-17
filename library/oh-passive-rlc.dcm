@@ -1,0 +1,103 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP C
+D capacitor
+$ENDCMP
+#
+$CMP CFEEDT
+D feedthrough capacitor
+$ENDCMP
+#
+$CMP CPOL
+D polarized (electrolytic) capacitor
+$ENDCMP
+#
+$CMP CVAR
+D variable capacitor
+$ENDCMP
+#
+$CMP FBEAD
+D ferrite bead
+$ENDCMP
+#
+$CMP HEATING
+D heating element, heating resistor
+$ENDCMP
+#
+$CMP L
+D inductor
+$ENDCMP
+#
+$CMP LCORE
+D inductor with magnetic core
+$ENDCMP
+#
+$CMP LCOREGAP
+D inductor with gapped magnetic core
+$ENDCMP
+#
+$CMP LCOREVAR
+D variable inductor with magnetic core
+$ENDCMP
+#
+$CMP LDR
+D light-dependent resistor (LDR), photo resistor
+$ENDCMP
+#
+$CMP MDR
+D magnetic-dependent resistor (MDR), magneto resistor
+$ENDCMP
+#
+$CMP NTC
+D resistor with negative temperature coefficient (NTC), thermistor
+$ENDCMP
+#
+$CMP PTC
+D resistor with positive temperature coefficient (PTR), thermistor
+$ENDCMP
+#
+$CMP R
+D resistor
+$ENDCMP
+#
+$CMP RARR2
+D dual resistor array
+$ENDCMP
+#
+$CMP RARR4
+D quad resistor array
+$ENDCMP
+#
+$CMP RARR5
+D penta resistor array
+$ENDCMP
+#
+$CMP RARR8
+D octa resistor array
+$ENDCMP
+#
+$CMP RPOT
+D potentiometer
+$ENDCMP
+#
+$CMP RSET
+D preset resistor, rheostat
+$ENDCMP
+#
+$CMP RTRIM
+D trimming potentiometer
+$ENDCMP
+#
+$CMP RVAR
+D variable resistor, rheostat
+$ENDCMP
+#
+$CMP SHUNT
+D shunt resistor (4 pins)
+$ENDCMP
+#
+$CMP VDR
+D voltage-dependent resistor (VDR), varistor
+$ENDCMP
+#
+#End Doc Library
